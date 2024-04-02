@@ -6,7 +6,6 @@ providing functionalities for creating, reading, updating, and deleting (CRUD) s
 ## Features
 
 - **CRUD Operations**: Easily manage student records with Create, Read, Update, and Delete operations.
-- **User-friendly Interface**: Intuitive web interface for seamless navigation and interaction.
 - **Secure Authentication**: Secure user authentication and authorization to ensure data privacy.
 - **Data Validation**: Validation of input data to maintain data integrity and consistency.
 - **Integration with MySQL**: Backend database powered by MySQL for robust data storage and retrieval.
@@ -17,7 +16,6 @@ providing functionalities for creating, reading, updating, and deleting (CRUD) s
 - **Spring Boot**: Framework for building and deploying Java-based applications.
 - **MySQL**: Relational database management system for data storage.
 - **HTML/CSS/JavaScript**: Frontend technologies for creating the user interface.
-- **Thymeleaf**: Server-side templating engine for dynamic web page generation.
 
 ## Usage
 
